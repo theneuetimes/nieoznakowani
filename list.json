@@ -18,5 +18,20 @@
     "carType": "BMW 330i",
     "carPlate": "BL 58218",
     "region": "Podlaskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "BI 7310Y",
+    "region": "Podlaskie"
+  },
+  {
+    "carType": "BMW 340i",
+    "carPlate": "ZS 176LW",
+    "region": "Zachodniopomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "ZWA 61YM",
+    "region": "Zachodniopomorskie"
   }
 ]
