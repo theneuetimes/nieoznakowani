@@ -33,5 +33,1120 @@
     "carType": "BMW 330i",
     "carPlate": "ZWA 61YM",
     "region": "Zachodniopomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "RZ 179CE",
+    "region": "Podkarpackie"
+  },
+  {
+    "carType": "Opel Insignia",
+    "carPlate": "RDE 12019",
+    "region": "Podkarpackie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "BSI 4E38",
+    "region": "Podlaskie"
+  },
+  {
+    "carType": "Skoda Octavia III",
+    "carPlate": "BIA 28075",
+    "region": "Podlaskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "BI 7125Y",
+    "region": "Podlaskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "ZKA 28462",
+    "region": "Zachodniopomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "ZKL 14256",
+    "region": "Zachodniopomorskie"
+  },
+  {
+    "carType": "Opel Insignia",
+    "carPlate": "ZS 1647X",
+    "region": "Zachodniopomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "WU 4559P",
+    "region": "Kujawsko-pomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "WU 4558P",
+    "region": "Dolnośląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "WU 3750P",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "WU 4560P",
+    "region": "Łódzkie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "WU 4562P",
+    "region": "Małopolskie"
+  },
+  {
+    "carType": "Ford Focus III",
+    "carPlate": "WE 585CW",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "Volkswagen Passat B8",
+    "carPlate": "WU 8133F",
+    "region": "Pomorskie"
+  },
+  {
+    "carType": "Peugeot 508",
+    "carPlate": "BI 7848S",
+    "region": "Podlaskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "WB 3620X",
+    "region": "Lubelskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "WU 4557P",
+    "region": "Lubelskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "TK 5601Y",
+    "region": "Świętokrzyskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "TSZ 43129",
+    "region": "Świętokrzyskie"
+  },
+  {
+    "carType": "Opel Insignia",
+    "carPlate": "TK 7151T",
+    "region": "Świętokrzyskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "TK 9025S",
+    "region": "Świętokrzyskie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "TSA 7001A",
+    "region": "Świętokrzyskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "TJE 36714",
+    "region": "Świętokrzyskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "TK 0576X",
+    "region": "Świętokrzyskie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "TK 7076V",
+    "region": "Świętokrzyskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "TKI 2034A",
+    "region": "Świętokrzyskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "WX 4711A",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "TSK 27413",
+    "region": "Świętokrzyskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "TK 7476T",
+    "region": "Świętokrzyskie"
+  },
+  {
+    "carType": "Skoda Superb III FL",
+    "carPlate": "SY 8682K",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "Kia Stinger GT",
+    "carPlate": "SZA 91TN",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "Cupra Leon Sportstourer",
+    "carPlate": "SB 861AM",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "Kia Stinger GT",
+    "carPlate": "TKI 70057",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "SK 596SM",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "Opel Astra V",
+    "carPlate": "WPL YY79",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "PKA UR53",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "Opel Astra V",
+    "carPlate": "WK 60268",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "WRA 08GE",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "Kia Stinger GT",
+    "carPlate": "BI 21847",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "STA KM08",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "Opel Astra V",
+    "carPlate": "PO 2RC64",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "DTR 76124",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "Kia Stinger GT",
+    "carPlate": "GD 1G583",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "Kia Stinger GT",
+    "carPlate": "SH 9301F",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "Kia Optima GT",
+    "carPlate": "SJZ 5PH1",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "SC 6493N",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "Opel Astra V",
+    "carPlate": "SZY 5KH8",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "SCI 6213E",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "Opel Astra V",
+    "carPlate": "WE 7L172",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "PKA UN17",
+    "region": "Wielkopolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "PZ 654VW",
+    "region": "Wielkopolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "PO 8P493",
+    "region": "Wielkopolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "PO 6RE26",
+    "region": "Wielkopolskie"
+  },
+  {
+    "carType": "Skoda Octavia III RS",
+    "carPlate": "PO 4G924",
+    "region": "Wielkopolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "PKN 1678C",
+    "region": "Wielkopolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "PGN 381GP",
+    "region": "Wielkopolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "PO 3FX73",
+    "region": "Wielkopolskie"
+  },
+  {
+    "carType": "Ford Mondeo Mk4",
+    "carPlate": "DLB F992",
+    "region": "Dolnośląskie"
+  },
+  {
+    "carType": "Opel Astra IV",
+    "carPlate": "DWR 82546",
+    "region": "Dolnośląskie"
+  },
+  {
+    "carType": "Toyota Corolla",
+    "carPlate": "DWR 8157G",
+    "region": "Dolnośląskie"
+  },
+  {
+    "carType": "Toyota Corolla",
+    "carPlate": "DMI 27032",
+    "region": "Dolnośląskie"
+  },
+  {
+    "carType": "Opel Astra IV",
+    "carPlate": "DSW 87098",
+    "region": "Dolnośląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "DPL 28158",
+    "region": "Dolnośląskie"
+  },
+  {
+    "carType": "Ford Focus ST",
+    "carPlate": "DOA 66582",
+    "region": "Dolnośląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "DB 3185H",
+    "region": "Dolnośląskie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "DW 947GS",
+    "region": "Dolnośląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "DW 731FU",
+    "region": "Dolnośląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "DTR 76192",
+    "region": "Dolnośląskie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "EL 5N427",
+    "region": "Łódzkie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "EWI 59SP",
+    "region": "Łódzkie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "ESI UE56",
+    "region": "Łódzkie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "EWI 8L17",
+    "region": "Łódzkie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "ELW 2P93",
+    "region": "Łódzkie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "EL 6H056",
+    "region": "Łódzkie"
+  },
+  {
+    "carType": "Opel Insignia",
+    "carPlate": "ES 04605",
+    "region": "Łódzkie"
+  },
+  {
+    "carType": "Opel Insignia",
+    "carPlate": "CNA SL21",
+    "region": "Kujawsko-pomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "NNI 08436",
+    "region": "Warmińsko-mazurskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "NSZ 00338",
+    "region": "Warmińsko-mazurskie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "NO 9479S",
+    "region": "Warmińsko-mazurskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "NE 1372C",
+    "region": "Warmińsko-mazurskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "NOS 25WY",
+    "region": "Warmińsko-mazurskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "NBR 25381",
+    "region": "Warmińsko-mazurskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "NO 5973R",
+    "region": "Warmińsko-mazurskie"
+  },
+  {
+    "carType": "Skoda Superb III FL",
+    "carPlate": "WOR 75574",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "GCH 84374",
+    "region": "Pomorskie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "GD 083WY",
+    "region": "Pomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "GS 87341",
+    "region": "Pomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "GKA 17156",
+    "region": "Pomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "GD 742MT",
+    "region": "Pomorskie"
+  },
+  {
+    "carType": "BMW E61",
+    "carPlate": "GD 094MT",
+    "region": "Pomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "GWE 0933F",
+    "region": "Pomorskie"
+  },
+  {
+    "carType": "Mercedes-Benz E280",
+    "carPlate": "GD 169VF",
+    "region": "Pomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "ONY 01019",
+    "region": "Opolskie"
+  },
+  {
+    "carType": "Opel Astra IV",
+    "carPlate": "OGL 73SS",
+    "region": "Opolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "PNT 53102",
+    "region": "Wielkopolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "OKL 45507",
+    "region": "Opolskie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "CB 672GK",
+    "region": "Kujawsko-pomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "CW 05705",
+    "region": "Kujawsko-pomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "CB 1248S",
+    "region": "Kujawsko-pomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "CTU N013",
+    "region": "Kujawsko-pomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "CB 308GK",
+    "region": "Kujawsko-pomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "FSL 671AR",
+    "region": "Lubuskie"
+  },
+  {
+    "carType": "Volkswagen Passat B7",
+    "carPlate": "FSU 31298",
+    "region": "Lubuskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "FZG 52163",
+    "region": "Lubuskie"
+  },
+  {
+    "carType": "Volkswagen Passat B7",
+    "carPlate": "FG 6198K",
+    "region": "Lubuskie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "FGW 7XM3",
+    "region": "Lubuskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "FZI 86314",
+    "region": "Lubuskie"
+  },
+  {
+    "carType": "Volkswagen Passat B7",
+    "carPlate": "FWS 3N26",
+    "region": "Lubuskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "WI 579EX",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "WW 1086J",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "Opel Insignia FL",
+    "carPlate": "WM 82943",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "Skoda Superb III FL",
+    "carPlate": "WW 958YG",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "WY 2783L",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "WM 2196H",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "WR 8739W",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "WS 41052",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "WOS 60547",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "WR 274AV",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "WL 7165H",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "WH 58792",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "KNT 00398",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "KCH GG97",
+    "region": "Małopolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "KRA SK58",
+    "region": "Małopolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "KR 5W751",
+    "region": "Małopolskie"
+  },
+  {
+    "carType": "Opel Astra V",
+    "carPlate": "KBR 82S3",
+    "region": "Małopolskie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "KR 8AA15",
+    "region": "Małopolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "KWA 15763",
+    "region": "Małopolskie"
+  },
+  {
+    "carType": "Cupra Leon",
+    "carPlate": "KR 9RL86",
+    "region": "Małopolskie"
+  },
+  {
+    "carType": "Cupra Leon",
+    "carPlate": "KN 9682C",
+    "region": "Małopolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "KBC 72548",
+    "region": "Małopolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "KR 7W514",
+    "region": "Małopolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "LKR 39418",
+    "region": "Lubelskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "LOP 46368",
+    "region": "Lubelskie"
+  },
+  {
+    "carType": "BMW 330e",
+    "carPlate": "LU 613LV",
+    "region": "Lubelskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "LB 63469",
+    "region": "Lubelskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "LC 78691",
+    "region": "Lubelskie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "LLU 72879",
+    "region": "Lubelskie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "LU 851NT",
+    "region": "Lubelskie"
+  },
+  {
+    "carType": "Opel Astra V",
+    "carPlate": "LRA 11248",
+    "region": "Lubelskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "LU 153RE",
+    "region": "Lubelskie"
+  },
+  {
+    "carType": "BMW 330e",
+    "carPlate": "LZ 57638",
+    "region": "Lubelskie"
+  },
+  {
+    "carType": "Opel Astra V",
+    "carPlate": "LLB 39634",
+    "region": "Lubelskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "LZ 56347",
+    "region": "Lubelskie"
+  },
+  {
+    "carType": "Opel Astra V",
+    "carPlate": "LU 591FJ",
+    "region": "Lubelskie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "RJA 97592",
+    "region": "Podkarpackie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "RZ 3476W",
+    "region": "Podkarpackie"
+  },
+  {
+    "carType": "Skoda Superb III FL",
+    "carPlate": "DLU 82796",
+    "region": "Dolnośląskie"
+  },
+  {
+    "carType": "Opel Insignia",
+    "carPlate": "RZ 57535",
+    "region": "Podkarpackie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "RP 74347",
+    "region": "Podkarpackie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "DMI 27031",
+    "region": "Dolnośląskie"
+  },
+  {
+    "carType": "Hyundai i30",
+    "carPlate": "DST F105",
+    "region": "Dolnośląskie"
+  },
+  {
+    "carType": "Opel Astra IV",
+    "carPlate": "DDZ 16623",
+    "region": "Dolnośląskie"
+  },
+  {
+    "carType": "BMW 320i",
+    "carPlate": "SK 113NX",
+    "region": "Dolnośląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "DJ 96043",
+    "region": "Dolnośląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "BKL 17522",
+    "region": "Podlaskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "BIA 22119",
+    "region": "Podlaskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "BBI FY24",
+    "region": "Podlaskie"
+  },
+  {
+    "carType": "BMW 320i",
+    "carPlate": "BI 628CK",
+    "region": "Podlaskie"
+  },
+  {
+    "carType": "Kia Ceed GT",
+    "carPlate": "SK 897MA",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "Peugeot Partner II",
+    "carPlate": "WE 203EC",
+    "region": "Lubuskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "WU 4551P",
+    "region": "Lubuskie"
+  },
+  {
+    "carType": "Volkswagen Passat B8",
+    "carPlate": "WU 8134F",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "Ford Focus",
+    "carPlate": "WE 581CW",
+    "region": "Wielkopolskie"
+  },
+  {
+    "carType": "Ford Mondeo Mk4",
+    "carPlate": "WE 577CW",
+    "region": "Wielkopolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "TK 7026T",
+    "region": "Świętokrzyskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "ZMY 281AX",
+    "region": "Zachodniopomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "ES 51946",
+    "region": "Łódzkie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "EL 5N394",
+    "region": "Łódzkie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "DSR 32362",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "LLU 59613",
+    "region": "Lubelskie"
+  },
+  {
+    "carType": "BMW 330e",
+    "carPlate": "LU 219LV",
+    "region": "Lubelskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "WE 7G840",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "PP 3657K",
+    "region": "Wielkopolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "PKE 96N1",
+    "region": "Wielkopolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "PSR 91J3",
+    "region": "Wielkopolskie"
+  },
+  {
+    "carType": "Cupra Leon",
+    "carPlate": "PKE 1NA1",
+    "region": "Wielkopolskie"
+  },
+  {
+    "carType": "Ford Focus",
+    "carPlate": "OPO JA25",
+    "region": "Opolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "OK 94501",
+    "region": "Opolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "ONY TY09",
+    "region": "Opolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "OST 60RC",
+    "region": "Opolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "OGL 34CH",
+    "region": "Opolskie"
+  },
+  {
+    "carType": "BMW 330i GT",
+    "carPlate": "OP 2709L",
+    "region": "Opolskie"
+  },
+  {
+    "carType": "BMW K1300GT",
+    "carPlate": "OPO 1AM1",
+    "region": "Opolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "NKE RH24",
+    "region": "Warmińsko-mazurskie"
+  },
+  {
+    "carType": "Kia Ceed",
+    "carPlate": "WT 96014",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "Opel Insignia",
+    "carPlate": "WL 28024",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "Skoda Superb III FL",
+    "carPlate": "WE 619SY",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "WPI 12LC",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "WK 48439",
+    "region": "Mazowieckie"
+  },
+  {
+    "carType": "Opel Insignia",
+    "carPlate": "GDA FL94",
+    "region": "Pomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "GD 361MT",
+    "region": "Pomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "GCZ 19HU",
+    "region": "Pomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "GST 3H02",
+    "region": "Pomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "KOL LM59",
+    "region": "Małopolskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "BI 8697Y",
+    "region": "Podlaskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "BAU 6C09",
+    "region": "Podlaskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "RZ 0237A",
+    "region": "Podkarpackie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "OKL 45509",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "CBY 1AU9",
+    "region": "Kujawsko-pomorskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "TKI 2046A",
+    "region": "Świętokrzyskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "DOL 95102",
+    "region": "Dolnośląskie"
+  },
+  {
+    "carType": "Kia Stinger GT",
+    "carPlate": "SY 4867K",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "Opel Astra V",
+    "carPlate": "ST 2734K",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "BMW M340i",
+    "carPlate": "SK 618SM",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "Kia Stinger GT",
+    "carPlate": "SZY 81935",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "SMI 31712",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "Skoda Superb III",
+    "carPlate": "SK 381HX",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "SBE 2CN9",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "SH 2656C",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "Opel Astra V",
+    "carPlate": "LPA 19413",
+    "region": "Lubelskie"
+  },
+  {
+    "carType": "Volkswagen Crafter",
+    "carPlate": "SK 3535P",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "Opel Astra V",
+    "carPlate": "SZ 7961L",
+    "region": "Śląskie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "RMI 72348",
+    "region": "Podkarpackie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "RZ 073CE",
+    "region": "Podkarpackie"
+  },
+  {
+    "carType": "Opel Insignia",
+    "carPlate": "RJS 56YT",
+    "region": "Podkarpackie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "RT 43691",
+    "region": "Podkarpackie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "RZE XA41",
+    "region": "Podkarpackie"
+  },
+  {
+    "carType": "BMW 330i",
+    "carPlate": "CT 3010P",
+    "region": "Kujawsko-pomorskie"
+  },
+  {
+    "carType": "Opel Insignia",
+    "carPlate": "CT 23635",
+    "region": "Kujawsko-pomorskie"
+  },
+  {
+    "carType": "Opel Insignia",
+    "carPlate": "CBY 12N7",
+    "region": "Kujawsko-pomorskie"
+  },
+  {
+    "carType": "Opel Insignia",
+    "carPlate": "CRY G312",
+    "region": "Kujawsko-pomorskie"
+  },
+  {
+    "carType": "Volkswagen Passat B8",
+    "carPlate": "WU 8135F",
+    "region": "Mazowieckie"
   }
 ]
